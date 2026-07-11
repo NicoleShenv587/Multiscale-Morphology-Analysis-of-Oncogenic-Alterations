@@ -10,7 +10,7 @@ As a quick overview:
 
 **Cell Segmentation**
 
-Contains the workflow for three-dimensional single-cell segmentation from membrane-labeled expansion microscopy images. 
+Contains the workflow for three-dimensional single-cell segmentation from expansion microscopy images. 
 
 **Mitochondria Segmentation**
 
@@ -22,11 +22,11 @@ Contains code for quantifying global three-dimensional cell morphology, includin
 
 **Curvature Analysis**
 
-Contains code for generating cell surface meshes and quantifying membrane curvature features, including vertex-wise mean curvature and high-curvature statistics. 
+Contains code for generating cell-surface meshes and quantifying membrane-curvature features, including vertex-wise mean curvature and high-curvature statistics. 
 
 **Mitochondria Analysis**
 
-Contains code for extracting three-dimensional mitochondrial morphology features, including size, shape, and elongation measurements, mitochondrial skeletonization and quantification of network topology.
+Contains code for extracting three-dimensional mitochondrial morphology features, including size, shape, elongation measurements, mitochondrial skeletonization, and network topology quantification.
 
 **Classification**
 
