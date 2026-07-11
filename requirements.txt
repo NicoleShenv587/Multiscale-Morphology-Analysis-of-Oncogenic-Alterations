@@ -1,0 +1,41 @@
+# =============================================================================
+# Multiscale Morphology Analysis
+# Requirements
+# =============================================================================
+
+numpy>=1.24
+scipy>=1.11
+pandas>=2.1
+
+matplotlib>=3.8
+seaborn>=0.13
+
+scikit-image>=0.22
+scikit-learn>=1.4
+
+tifffile>=2024.2
+imageio>=2.34
+Pillow>=10.0
+opencv-python>=4.9
+
+openpyxl>=3.1
+
+statsmodels>=0.14
+
+networkx>=3.2
+trimesh>=4.4
+
+skan>=0.11
+
+umap-learn>=0.5.5
+
+joblib>=1.4
+tqdm>=4.66
+
+plotly>=5.22
+
+# 3D segmentation
+segment3D
+
+# membrane curvature
+unwrap3D
