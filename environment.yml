@@ -1,0 +1,27 @@
+name: multiscale-morphology
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-image
+  - scikit-learn
+  - tifffile
+  - imageio
+  - pillow
+  - openpyxl
+  - networkx
+  - tqdm
+  - pip
+
+  - pip:
+      - umap-learn
+      - skan
+      - segment3D
+      - unwrap3D
