@@ -38,7 +38,16 @@ Contains scripts for figure generation used in the manuscript.
 
 **System**
 
-The pipeline has been tested on Linux and Windows using Python 3.10. Required software dependencies are listed in requirements.txt and environment.yml.
+The pipeline has been tested on Linux and Windows using Python 3.10. Required software dependencies are listed in *requirements.txt* and *environment.yml*.
+
+***Additional Dependencies***
+
+The segmentation and curvature analysis rely on:
+
+- u-Segment3D
+- u-Unwrap3D
+
+Please install these packages following the instructions provided in their official repositories before running the corresponding analysis scripts.
 
 No specialized hardware is required for feature extraction and analysis, although GPU acceleration may improve the performance of segmentation workflows on large volumetric datasets.
 
