@@ -52,6 +52,7 @@ Please install these packages following the instructions provided in their offic
 No specialized hardware is required for feature extraction and analysis, although GPU acceleration may improve the performance of segmentation workflows on large volumetric datasets.
 
 
-<img width="880" height="286" alt="image" src="https://github.com/user-attachments/assets/6d35f518-2d09-4842-a436-cdfa94e804c8" />
+<img width="600" height="300" alt="Codes" src="https://github.com/user-attachments/assets/bb98f754-a208-43a6-a1b4-bb64b98781b8" />
+
 
 
